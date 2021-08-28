@@ -5,7 +5,7 @@
 - Visit my [homepage](https://jithendrabsy.github.io) to know more about me
 - Feel free to drop an email to **jithendra1230** at **gmail** or DM me on [twitter](https://twitter.com/jithendrabsy) if you wish to contact me
 - I'm also on [Linkedin](https://www.linkedin.com/in/jithendrabsy/) if you are into that sort of thing
-- Fun fact - I'm a metalhead! You can reach out to me if you need any recommendations
+- Fun fact - I'm a metalhead! You can reach out to me if you want any recommendations
 
 
 # Recent blog posts
