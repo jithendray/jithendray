@@ -13,6 +13,10 @@
 # Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weight Initialization](https://jithendrabsy.github.io/fastblog/machinelearning/deeplearning/2021/02/01/initialization.html)
+- [Understanding Time Series and ARIMA](https://jithendrabsy.github.io/fastblog/datascience/timeseries/2020/11/11/ts-arima.html)
+- [Understanding Generative Adversarial Networks](https://jithendrabsy.github.io/fastblog/deeplearning/machinelearning/2020/07/11/Understanding-Generative-Adversarial-Networks.html)
+- [Upgrading Ubuntu to 20.04 LTS](https://jithendrabsy.github.io/fastblog/linux/2020/05/01/upgrading-ubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 
