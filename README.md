@@ -10,4 +10,6 @@
 ╚═══════════════════════════════════════════════════╝ ┗━━ freetime - I review music on <a href="https://cursedcollection.github.io/" target="_blank">Cursed Collection</a>!
 </pre>
 
+<!--
 [![Spotify playing](http://spotify.aio-api.ml/spotify?id=bx1j9iim2qv6chih9x8lpiwd8&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8)
+-->
