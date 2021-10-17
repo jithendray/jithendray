@@ -1,15 +1,20 @@
-<pre style="font-family:consolas,monospace">
-╔══ Hello there ════════════════════════════════════╗ Jithendra Yenugula 
-║ I'm Jithendra, a data scientist and I work at the ║ ┣━━ 📊 Career
-║ intersection of analytics, machine learning and   ║ ┃   ┣━━ Data Scientist (2020/11-Current)
-║ business intelligence.                            ║ ┃   ┣━━ Research Assistant (2019/05-2019/07)
-║                                                   ║ ┣━━ 🎓 Education
-║ Feel free to drop an <a href="mailto:jithendra1230@gmail.com">email</a> or DM me on <a href="https://twitter.com/jithendrabsy">twitter</a>.   ║ ┃   ┣━━ B.Tech in Computer Science (2017/08-2021/05)
-║ I'm also on <a href="https://www.linkedin.com/in/jithendrabsy/">Linkedin</a> if you are into that sort    ║ ┣━━ 🌐 Homepage
-║ of thing.                                         ║ ┃   ┣━━ <a href="https://jithendrabsy.github.io" target="_blank">jithendrabsy.github.io</a>  
-╚═══════════════════════════════════════════════════╝ ┗━━ freetime - I review music on <a href="https://cursedcollection.github.io/" target="_blank">Cursed Collection</a>!
-</pre>
+## hi, i'm jithendra !
 
-<!--
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=bx1j9iim2qv6chih9x8lpiwd8&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8)
--->
+<a href="https://jithendrabsy.github.io/">
+<img align="left" alt="Homepage" width="22px" <img src="https://img.icons8.com/ios/50/000000/domain.png"/>
+</a>
+<a href="https://twitter.com/jithendrabsy">
+  <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jithendrabsy/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+<br />
+
+- I work at the intersection of analytics, business intelligence & machine learning
+- I’m currently working as a Data Scientist at [NeenOpal Inc.](www.neenopal.com)
+- Feel free to drop an email to `jithendra1230 at gmail` or DM me on `twitter` if you wish to contact me
+- I’m also on `Linkedin` if you are into that sort of thing
+- Visit my [homepage](https://jithendrabsy.github.io/) to know more about me
