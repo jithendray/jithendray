@@ -14,7 +14,8 @@
 <br />
 
 - I work at the intersection of analytics, business intelligence & machine learning
-- I’m currently working as a Data Scientist at [NeenOpal Inc.](https://www.neenopal.com/)
+- I am currently working as a Data Scientist at [NeenOpal Inc.](https://www.neenopal.com/)
+- I am passionate about learning about and building scalable data systems.
 - Feel free to drop an email to `jithendra1230 at gmail` or DM me on `twitter` if you wish to contact me
 - I’m also on `Linkedin` if you are into that sort of thing
 - Visit my [homepage](https://jithendrabsy.github.io/) to know more about me
