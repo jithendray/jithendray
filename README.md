@@ -16,7 +16,7 @@
 
 - I'm a data scientist working at the intersection of analytics, business intelligence & machine learning
 - I am currently working as a Data Scientist at [NeenOpal Inc.](https://www.neenopal.com/)
-- I mainly write code in Python and SQL, occasionally I do R and currently I am learning Julia and JavaScript.
+- I mainly write code in Python and SQL, occasionally I do R and currently I am learning Julia and Scala.
 
 Here is some of the stuff I enjoy doing:
 - Time series analysis and forecasting
