@@ -1,4 +1,5 @@
-## hi, i'm jithendra !
+## hi, i'm jithendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 <a href="https://jithendrabsy.github.io/">
 <img align="left" alt="Homepage" width="22px" <img src="https://img.icons8.com/ios/50/000000/domain.png"/>
@@ -13,9 +14,16 @@
 <br />
 <br />
 
-- I work at the intersection of analytics, business intelligence & machine learning
+- I'm a data scientist working at the intersection of analytics, business intelligence & machine learning
 - I am currently working as a Data Scientist at [NeenOpal Inc.](https://www.neenopal.com/)
-- I am passionate about learning and building scalable data systems.
-- Feel free to drop an email to `jithendra1230 at gmail` or DM me on `twitter` if you wish to contact me
-- I’m also on `Linkedin` if you are into that sort of thing
-- Visit my [homepage](https://jithendrabsy.github.io/) to know more about me
+- I mainly write code in Python and SQL, occasionally I do R and currently I am learning Julia and JavaScript.
+
+Here is some of the stuff I enjoy doing:
+- Time series analysis and forecasting
+- Cleaning datasets
+- machine learning
+- Learning about and building scalable data systems
+- Data Visualization (Tableau)
+
+
+Feel free to drop an email to `jithendra1230 at gmail` or DM me on `twitter` if you wish to contact me. I’m also on `Linkedin` if you are into that sort of thing. Visit my [homepage](https://jithendrabsy.github.io/) to know more about me
