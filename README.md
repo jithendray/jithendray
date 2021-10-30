@@ -4,10 +4,10 @@
 <a href="https://jithendrabsy.github.io/">
 <img align="left" alt="Homepage" width="22px" <img src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
-<a href="https://twitter.com/jithendrabsy">
+<a href="https://twitter.com/jibsy">
   <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jithendrabsy/">
+<a href="https://www.linkedin.com/in/jibsy/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
