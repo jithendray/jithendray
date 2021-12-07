@@ -1,5 +1,3 @@
-## hi, i'm jithendra
-
 <a href="https://twitter.com/doomedripper" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,4 +11,4 @@
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
-[blog](https://jithendrabsy.github.io/){:target="_blank"}
+<a href="https://jithendrabsy.github.io" target="_blank">blog</a>
