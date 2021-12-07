@@ -1,8 +1,16 @@
-## hi, i'm jithendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## hi, i'm jithendra
 
+<a href="https://twitter.com/doomedripper" target="_blank">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jithendrabsy/" target="_blank">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/saiyan6174" target="_blank">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8?si=744e396652f14b4c" target="_blank">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
 
-<a href="https://twitter.com/doomedripper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramikrispin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jithendrabsy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
-
-
-[blog](https://jithendrabsy.github.io/)
+[blog](https://jithendrabsy.github.io/){:target="_blank"}
