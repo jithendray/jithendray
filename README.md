@@ -11,4 +11,4 @@
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
-<a href="https://jithendrabsy.github.io/blog" target="_blank">blog</a>
+<a href="https://jithendrabsy.github.io/" target="_blank">blog</a>
