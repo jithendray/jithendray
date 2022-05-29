@@ -9,8 +9,8 @@ Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
 * Deep Learning
 
-🔭 I’m currently preparing for - GRE and TOEFL examinations
-🌱 I’m currently learning - pipeline workflow management using Apache Airflow
+🔭 I’m currently preparing for - GRE and TOEFL examinations<br />
+🌱 I’m currently learning - pipeline workflow management using Apache Airflow<br />
 💬 Ask me about anything, I'm happy to help. Please email via `jithendrabsy[at]gmail[dot]com`<br />
 📎 See my [blog](https://jithendrabsy.github.io/) to get more info of me<br />
 🔗 I am also on:
