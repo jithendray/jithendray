@@ -15,9 +15,9 @@ Here is some of the stuff I enjoy doing:
 📎 See my [blog](https://jithendrabsy.github.io/) to get more info of me<br />
 🔗 I am also on:
 <p align="left">
-<a href="https://twitter.com/doomedripper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomedripper" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jithendrabsy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendrabsy" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="bx1j9iim2qv6chih9x8lpiwd8" height="30" width="40" /></a>
+<a href="https://twitter.com/doomedripper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomedripper" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jithendrabsy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendrabsy" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="bx1j9iim2qv6chih9x8lpiwd8" height="30" width="40" /></a>
   
 #### Portfolio:
   * You can find here the exhaustive list of the side-projects I have worked on - [Portfolio](https://jithendrabsy.github.io/portfolio/)
