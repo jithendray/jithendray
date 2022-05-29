@@ -8,6 +8,7 @@ Here is some of the stuff I enjoy doing:
 * put stuff on production (cloud)
 * Time series analysis and forecasting
 * Deep Learning
+* Writing technical articles on my [personal blog](https://jithendrabsy.github.io/blog/) and album reviews on my [music blog](https://cursedcollection.github.io/)
 
 🔭 I’m currently preparing for - GRE and TOEFL examinations<br />
 🌱 I’m currently learning - pipeline workflow management using Apache Airflow<br />
