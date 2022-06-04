@@ -23,14 +23,14 @@ Here is some of the stuff I enjoy doing:
 #### Portfolio:
   * You can find here the exhaustive list of the side-projects I have worked on - [Portfolio](https://jithendrabsy.github.io/portfolio/)
  <p align="left">
-  <a href="https://github.com/jithendrabsy/aws-SageMaker-fraud-detection"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendrabsy&repo=aws-SageMaker-fraud-detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-    <a href="hhttps://github.com/jithendrabsy/buy-or-sell-stocks"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendrabsy&repo=buy-or-sell-stocks&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
-  <a href="https://github.com/jithendrabsy/forecasting-air-pollution"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendrabsy&repo=forecasting-air-pollution&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
-  <a href="https://github.com/jithendrabsy/when-music-meets-datascience"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendrabsy&repo=when-music-meets-datascience&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
+  <a href="https://github.com/jithendray/aws-SageMaker-fraud-detection"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendray&repo=aws-SageMaker-fraud-detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+    <a href="hhttps://github.com/jithendray/buy-or-sell-stocks"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendray&repo=buy-or-sell-stocks&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
+  <a href="https://github.com/jithendray/forecasting-air-pollution"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendray&repo=forecasting-air-pollution&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
+  <a href="https://github.com/jithendray/when-music-meets-datascience"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jithendray&repo=when-music-meets-datascience&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
 
 
-![jithendrabsy github stats](https://github-readme-stats.vercel.app/api?username=jithendrabsy&show_icons=true&theme=radical)
+![jithendray github stats](https://github-readme-stats.vercel.app/api?username=jithendray&show_icons=true&theme=radical)
 
 
 ##### I can't seem to do anything unless I am listening to music. 
