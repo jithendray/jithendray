@@ -1,4 +1,4 @@
-## Hi there, I'm Jithendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Jithendra
 
 I'm a full-time data engineer and a hobby data scientist. I mainly write code in Python, PySpark and SQL.
 
