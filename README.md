@@ -1,6 +1,6 @@
 ## Hi there, I'm Jithendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm a data engineer building cloud-based data warehousing & ETL solutions for multinational clients. I mainly write code with Python and SQL, occasionally I do Java, R and currently I am learning Scala.
+I'm a data engineer with experience in working on end-to-end projects that involved data cleaning, data migration, data visualization, time-series forecasting, data analysis and business intelligence for solving business problems of various multinational clients.
 
 Here is some of the stuff I enjoy doing:
 - Data Engineering
