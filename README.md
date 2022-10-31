@@ -15,7 +15,7 @@ Here is some of the stuff I enjoy doing:
 <a href="https://www.linkedin.com/in/jithendrabsy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendrabsy" height="30" width="40" /></a>
 
 
-You can also follow me on Lastfm ([@Jithendray](https://www.last.fm/user/Jithendray)) whetre i track my spotify listening history:
+You can also follow me on Lastfm ([@Jithendray](https://www.last.fm/user/Jithendray)) where i track my spotify listening history:
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Jithendray)
 
