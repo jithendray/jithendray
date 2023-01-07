@@ -31,5 +31,5 @@ lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
 </samp>
 <br>
 <div align="center">
-  ![pacman](https://github.com/jithendray/jithendray/blob/main/img/pacman.gif)
+  <img src="https://github.com/jithendray/jithendray/blob/main/img/pacman2.gif">
 </div>
