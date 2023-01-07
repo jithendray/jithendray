@@ -14,6 +14,7 @@
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
   <br>
   <br>
+  <!--
  <b>stuff i enjoy doing:</b>
  <br>
  building and maintaining a data warehouse
@@ -24,7 +25,7 @@
  <br>
  time series analysis and forecasting
  <br>
- <br>
+ <br>-->
  <b>feel free me to contact me:</b>
  <br>
  twitter @ [doomedripper](https://twitter.com/doomedripper)
