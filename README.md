@@ -28,5 +28,6 @@
 discord @ doomedripper#7018
 <br>
 lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
-
 </samp>
+<br>
+  ![pacman](https://github.com/jithendray/jithendray/blob/master/img/pacman.gif)
