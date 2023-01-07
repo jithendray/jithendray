@@ -40,5 +40,3 @@ discord @ doomedripper#7018
 lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
 <br>
 </samp>
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Jithendray)
