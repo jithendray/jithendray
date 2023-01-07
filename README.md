@@ -13,7 +13,7 @@
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
   <br>
-  <br>
+
   <!--
  <b>stuff i enjoy doing:</b>
  <br>
@@ -33,7 +33,6 @@
  linkedin @ [jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
  <br>
 discord @ doomedripper#7018
-<br>
 <br>
 <b>music i'm listening to:</b>
 <br>
