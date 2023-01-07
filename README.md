@@ -1,12 +1,11 @@
 <samp> 🙋🏽 hello there! </samp>
 <br></br>
 <samp>
-  <u>curently:</u>
+  <b>curently:</b>
   <br>
   data engineer @ [neenopal inc.](https://www.neenopal.com/)
   <br>
-  <br>
-  <u>previously:</u>
+  <b>previously:</b>
   <br>
   data scientist intern @ [neenopal inc.](https://www.neenopal.com/)
   <br>
@@ -14,8 +13,10 @@
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
   <br>
- <hr>
- <u>stuff i enjoy doing:</u>
+</samp>
+<hr>
+<samp>
+ <b>stuff i enjoy doing:</b>
  <br>
  building and maintaining a data warehouse
  <br>
@@ -25,15 +26,19 @@
  <br>
  time series analysis and forecasting
  <br>
+</samp>
  <hr>
- <u>feel free me to contact me:</u>
+<samp> 
+ <b>feel free me to contact me:</b>
  <br>
  twitter @ [doomedripper](https://twitter.com/doomedripper)
  <br>
  linkedin @ [jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
  <br>
 discord @ doomedripper#7018
+</samp>
 <hr>
+</samp>
 <u>music i'm listening to:</u>
 <br>
 lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
