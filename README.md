@@ -13,7 +13,7 @@
   <b>curently:</b>
   <br>
   data engineer @ [neenopal inc.](https://www.neenopal.com/)
-  <br>
+  <br>  
   <b>previously:</b>
   <br>
   data scientist intern @ [neenopal inc.](https://www.neenopal.com/)
