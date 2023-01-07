@@ -4,8 +4,10 @@
   <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<samp style="font-size:150%;"> 👀 jithendra yenugula | ⌨️ data engineer | 🌏 india </samp> 
+<samp>🙋🏻 JITHENDRA YENUGULA | ⌨️ DATA ENGINEER | 🌏 INDIA </samp> 
 </div>
+</p>
+
 <br></br>
 <samp>
   <b>curently:</b>
@@ -19,11 +21,13 @@
   research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
+<br>
 
 
-
-<b>music i'm listening to:</b>
+<b>also available through:</b>
+<br>
+discord @ doomedripper#7018
 <br>
 lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
-<br>
+
 </samp>
