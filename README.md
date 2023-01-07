@@ -1,23 +1,43 @@
-## Hi there, I'm Jithendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
-I'm a data engineer with experience in working on end-to-end projects that involved data cleaning, data migration, data visualization, time-series forecasting, data analysis and business intelligence for solving business problems of various multinational clients.
-
-Here is some of the stuff I enjoy doing:
-- Data Engineering
-- DevOps (MLOps & DataOps)
-- Time series analysis and forecasting
-- Defining useful KPIs and understanding business value
-- Data Analytics & Business Intelligence
-
-🔗 &nbsp;**I am also on:**
-<p align="left">
-<a href="https://twitter.com/doomedripper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doomedripper" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jithendrabsy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithendrabsy" height="30" width="40" /></a>
-
-
-You can also follow me on Lastfm ([@Jithendray](https://www.last.fm/user/Jithendray)) where i track my spotify listening history:
+<samp> 🙋🏽 hello there! </samp>
+<br></br>
+<samp>
+  <u>curently:</u>
+  <br>
+  data engineer @ [neenopal inc.](https://www.neenopal.com/)
+  <br>
+  <br>
+  <u>previously:</u>
+  <br>
+  data scientist intern @ [neenopal inc.](https://www.neenopal.com/)
+  <br>
+  research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
+  <br>
+  computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
+  <br>
+ <hr>
+ <u>stuff i enjoy doing:</u>
+ <br>
+ building and maintaining a data warehouse
+ <br>
+ pulling data from api's
+ <br>
+ developing etl pipelines
+ <br>
+ time series analysis and forecasting
+ <br>
+ <hr>
+ <u>feel free me to contact me:</u>
+ <br>
+ twitter @ [doomedripper](https://twitter.com/doomedripper)
+ <br>
+ linkedin @ [jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
+ <br>
+discord @ doomedripper#7018
+<hr>
+<u>music i'm listening to:</u>
+<br>
+lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
+<br>
+</samp>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Jithendray)
-
-
-
