@@ -22,8 +22,7 @@
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
 <br>
-
-
+<br>
 <b>also available through:</b>
 <br>
 discord @ doomedripper#7018
