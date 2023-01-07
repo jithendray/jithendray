@@ -13,9 +13,7 @@
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
   <br>
-</samp>
-<hr>
-<samp>
+  <br>
  <b>stuff i enjoy doing:</b>
  <br>
  building and maintaining a data warehouse
@@ -26,9 +24,7 @@
  <br>
  time series analysis and forecasting
  <br>
-</samp>
- <hr>
-<samp> 
+ <br>
  <b>feel free me to contact me:</b>
  <br>
  twitter @ [doomedripper](https://twitter.com/doomedripper)
@@ -36,10 +32,9 @@
  linkedin @ [jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
  <br>
 discord @ doomedripper#7018
-</samp>
-<hr>
-</samp>
-<u>music i'm listening to:</u>
+<br>
+<br>
+<b>music i'm listening to:</b>
 <br>
 lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
 <br>
