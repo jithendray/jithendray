@@ -1,10 +1,10 @@
 <p align='center'> 
-  <a href="https://twitter.com/doomedripper"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jithendrabsy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/doomedripper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jithendrabsy/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<samp> 🙋🏽 Jithendra Yenugula | ⌨️ Data Engineer | 🌏 India </samp> 
+<samp> 👀 jithendra yenugula | ⌨️ data engineer | 🌏 india </samp> 
 </div>
 <br></br>
 <samp>
@@ -19,17 +19,7 @@
   research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
-  <br>
 
-
- <b>feel free me to contact me:</b>
- <br>
- twitter @ [doomedripper](https://twitter.com/doomedripper)
- <br>
- linkedin @ [jithendrabsy](https://www.linkedin.com/in/jithendrabsy/)
- <br>
-discord @ doomedripper#7018
-<br>
 
 
 <b>music i'm listening to:</b>
