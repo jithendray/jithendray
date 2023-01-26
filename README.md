@@ -9,7 +9,7 @@ Here is some of the stuff I enjoy doing:
 - Writing about data & software engineering concepts
 - Machine learning
 
-🌱 I'm learning (in 2023): best practices for python & engineering, streaming analytics & systems, grinding leetcode
+🌱 I'm learning (in 2023): best practices for python & engineering, streaming analytics & systems, grinding leetcode<br/>
 💬 I love meeting new people, We can chat about various stuff. Feel free to contact me through email or twitter<br/>
 📎 Visit my [website/blog](https://jithendray.github.io/) to know more about me<br />
 
