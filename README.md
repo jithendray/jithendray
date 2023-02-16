@@ -21,7 +21,7 @@
   <!-- <br><br>
   <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> -->
 </p>
-<br>
+<!-- <br>
   <b>curently:</b>
   <br>
   data engineer @ <a href="https://www.neenopal.com/" target="_blank">neenopal inc.</a>
@@ -32,7 +32,7 @@
   <br>
   research intern @ <a href="https://hci.iiita.ac.in/" target="_blank">hci lab @ iiita</a>
   <br>
-  computer science undergrad @ <a href="http://cse.iiitdmj.ac.in/" target="_blank">iiitj</a>
+  computer science undergrad @ <a href="http://cse.iiitdmj.ac.in/" target="_blank">iiitj</a> -->
 <!-- <br>
 <br>
 <b>also available through:</b>
