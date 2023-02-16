@@ -3,13 +3,13 @@
   <a href="https://www.linkedin.com/in/jithendrabsy/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
-<div align="center">
+<!-- <div align="center">
 <samp>🙋🏻 JITHENDRA YENUGULA | ⌨️ DATA ENGINEER </samp> 
-</div>
+</div> -->
 </p>
 <br>
 <div align="center">
-  <img src="https://github.com/jithendray/jithendray/blob/main/img/data.gif">
+  <img src="https://github.com/jithendray/jithendray/blob/main/img/graph.gif">
 </div>
 
 <br></br>
