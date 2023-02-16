@@ -24,15 +24,15 @@
 <br>
   <b>curently:</b>
   <br>
-  data engineer @ [neenopal inc.](https://www.neenopal.com/)
+  data engineer @ <a href="https://www.neenopal.com/" target="_blank">neenopal inc.</a>
   <br>  
   <b>previously:</b>
   <br>
-  data scientist intern @ [neenopal inc.](https://www.neenopal.com/)
+  data scientist intern @ <a href="https://www.neenopal.com/" target="_blank">neenopal inc.</a>
   <br>
-  research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
+  research intern @ <a href="https://hci.iiita.ac.in/" target="_blank">hci lab @ iiita</a>
   <br>
-  computer science undergrad @ [iiitj](http://cse.iiitdmj.ac.in/)
+  computer science undergrad @ <a href="http://cse.iiitdmj.ac.in/" target="_blank">iiitj</a>
 <!-- <br>
 <br>
 <b>also available through:</b>
