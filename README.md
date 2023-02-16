@@ -15,17 +15,16 @@
 <samp>
 <h4 align="center">Welcome!</h4>
 <p align="center">
-  <a href="https://jithendray.github.io/">Website</a> /
-  <a href="https://www.linkedin.com/in/jithendray/">LinkedIn</a> /
-  <a href="https://twitter.com/carolstran">Twitter</a>
+  <a href="https://jithendray.github.io/" target="_blank">Website</a> /
+  <a href="https://www.linkedin.com/in/jithendray/" target="_blank">LinkedIn</a> /
+  <a href="https://twitter.com/doomedripper" target="_blank">Twitter</a>
   <!-- <br><br>
   <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> -->
 </p>
-
-<br></br>
+<br>
   <b>curently:</b>
   <br>
-  data engineer @ [neenopal inc.](https://www.neenopal.com/)
+  data engineer @ <a href="https://www.neenopal.com/" target="_blank">neenopal inc.</a>
   <br>  
   <b>previously:</b>
   <br>
