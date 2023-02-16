@@ -1,4 +1,4 @@
-<p align='center'> 
+<!-- <p align='center'> 
   <a href="https://www.linkedin.com/in/jithendray/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/doomedripper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
@@ -7,19 +7,19 @@
 <h3>🙋🏻 Jithendra Yenugula | 👨🏻‍💻 Data Engineer | 🌏 India </h3> 
 </div>
 </p>
-<!-- <br>
+ <br>
 <div align="center">
   <img src="https://github.com/jithendray/jithendray/blob/main/img/graph.gif">
-</div> -->
+</div>  -->
 
 <samp>
-<h3 align="center">Welcome 🍵</h3>
+<h4 align="center">Welcome!</h4>
 <p align="center">
-  <a href="https://workwithcarolyn.com">Website</a> /
-  <a href="https://twitter.com/carolstran">Twitter</a> /
-  <a href="https://mastodon.online/@carolstran">Mastodon</a>
-  <br><br>
-  <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" />
+  <a href="https://jithendray.github.io/">Website</a> /
+  <a href="https://www.linkedin.com/in/jithendray/">LinkedIn</a> /
+  <a href="https://twitter.com/carolstran">Twitter</a>
+  <!-- <br><br>
+  <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> -->
 </p>
 
 <br></br>
