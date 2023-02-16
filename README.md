@@ -12,8 +12,17 @@
   <img src="https://github.com/jithendray/jithendray/blob/main/img/graph.gif">
 </div> -->
 
-<br></br>
 <samp>
+<h3 align="center">Welcome 🍵</h3>
+<p align="center">
+  <a href="https://workwithcarolyn.com">Website</a> /
+  <a href="https://twitter.com/carolstran">Twitter</a> /
+  <a href="https://mastodon.online/@carolstran">Mastodon</a>
+  <br><br>
+  <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" />
+</p>
+
+<br></br>
   <b>curently:</b>
   <br>
   data engineer @ [neenopal inc.](https://www.neenopal.com/)
