@@ -25,13 +25,13 @@
   research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
   <br>
   computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
-<br>
+<!-- <br>
 <br>
 <b>also available through:</b>
 <br>
 discord @ doomedripper#7018
 <br>
-lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
+lastfm @ [jithendray](https://www.last.fm/user/Jithendray) -->
 </samp>
 <!--
 <br>
