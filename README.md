@@ -7,10 +7,10 @@
 <samp>🙋🏻 JITHENDRA YENUGULA | ⌨️ DATA ENGINEER </samp> 
 </div> -->
 </p>
-<br>
+<!-- <br>
 <div align="center">
   <img src="https://github.com/jithendray/jithendray/blob/main/img/graph.gif">
-</div>
+</div> -->
 
 <br></br>
 <samp>
