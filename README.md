@@ -24,7 +24,7 @@
 <br>
   <b>curently:</b>
   <br>
-  data engineer @ <a href="https://www.neenopal.com/" target="_blank">neenopal inc.</a>
+  data engineer @ [neenopal inc.](https://www.neenopal.com/)
   <br>  
   <b>previously:</b>
   <br>
