@@ -1,38 +1,24 @@
-<p align='center'> 
-  <a href="https://twitter.com/doomedripper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jithendrabsy/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
+### 👋 Hi, I'm Jithendra Yenugula
 
-<div align="center">
-<samp>🙋🏻 JITHENDRA YENUGULA | ⌨️ DATA ENGINEER | 🌏 INDIA </samp> 
-</div>
-</p>
+I design and build end-to-end data systems that serves customers at scale. Currently, I'm a Data Engineer at NeenOpal Inc. developing cloud-based data warehousing and ETL solutions for international clients operating in a variety of sectors.
 
-<br></br>
-<samp>
-  <b>curently:</b>
-  <br>
-  data engineer @ [neenopal inc.](https://www.neenopal.com/)
-  <br>  
-  <b>previously:</b>
-  <br>
-  data scientist intern @ [neenopal inc.](https://www.neenopal.com/)
-  <br>
-  research intern @ [hci lab @ iiita](https://hci.iiita.ac.in/)
-  <br>
-  computer science student @ [iiitj](http://cse.iiitdmj.ac.in/)
-<br>
-<br>
-<b>also available through:</b>
-<br>
-discord @ doomedripper#7018
-<br>
-lastfm @ [jithendray](https://www.last.fm/user/Jithendray)
-</samp>
-<!--
-<br>
-<div align="center">
-  <img src="https://github.com/jithendray/jithendray/blob/main/img/pacman3.gif">
-</div>
-commenting LOL
--->
+Here is some of the stuff I enjoy doing:
+- Data Engineering & DataOps
+- Time series analysis and forecasting
+- Exploring opensource data tools
+- Writing about data & software engineering concepts
+- Machine learning
+
+🌱 I'm learning (in 2023): best practices for python & engineering, streaming analytics & systems, grinding leetcode<br/>
+💬 I love meeting new people, We can chat about various stuff. Feel free to contact me through email or twitter<br/>
+📎 Visit my [website/blog](https://jithendray.github.io/) to know more about me<br />
+
+<a href="mailto:jithendra.yenugula@gmail.com">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jithendray/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/doomedripper">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
