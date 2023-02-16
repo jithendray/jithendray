@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/jithendray/" target="_blank">LinkedIn</a> /
   <a href="https://twitter.com/doomedripper" target="_blank">Twitter</a>
   <br><br>
-  <img src="https://github.com/jithendray/jithendray/img/blob/main/load.gif" />
+  <img src="https://github.com/jithendray/jithendray/blob/main/img/load.gif" />
 </p>
 <!-- <br>
   <b>curently:</b>
