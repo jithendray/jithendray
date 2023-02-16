@@ -4,7 +4,7 @@
   <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3>🙋🏻 JITHENDRA YENUGULA | 👨🏻‍💻 DATA ENGINEER </h3> 
+<h3>🙋🏻 Jithendra Yenugula | 👨🏻‍💻 Data Engineer | 🌏 India </h3> 
 </div>
 </p>
 <!-- <br>
