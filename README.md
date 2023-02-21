@@ -3,7 +3,6 @@
   <a href="https://twitter.com/doomedripper" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/bx1j9iim2qv6chih9x8lpiwd8" target="_blank"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
-  
 <div align="center">
 <h3>🙋🏻 Jithendra Yenugula | 👨🏻‍💻 Data Engineer | 🌏 India </h3> 
 </div>
