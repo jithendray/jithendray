@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Data Engineer by day ☼ and a metalhead by night ☾
+### A Data Engineer by day ☼ and a metalhead by night ☾
 
 <!-- ### 🛠️ Skills
 
@@ -9,7 +9,7 @@
 - Databases: Amazon Redshift, PostgreSQL, DynamoDB, Synapse Analytics
 - Certifications: AWS Certified Solutions Architect - Associate, Microsoft Certified: Azure Data Engineer Associate -->
 
-### Connect with Me
+#### Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/jithendray/)
 - [jithendray.github.io](https://jithendray.github.io/)
