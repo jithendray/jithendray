@@ -4,7 +4,7 @@
 
 ### 🛠️ Skills
 
-- Proficient: Python, AWS, PostgreSQL, PySpark, SparkSQL, Airflow, Git, CI/CD
+- Proficient: Python, AWS, PySpark, SparkSQL, Airflow, Git, CI/CD
 - Familiar: Machine Learning, PyTorch, Time Series Forecasting, Scala
 - Databases: Amazon Redshift, PostgreSQL, DynamoDB, Synapse Analytics
 - Certifications: AWS Certified Solutions Architect - Associate, Microsoft Certified: Azure Data Engineer Associate
